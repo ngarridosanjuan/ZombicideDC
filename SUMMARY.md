@@ -1,0 +1,16 @@
+# Table of contents
+
+* [Instrucciones](README.md)
+  * [Componentes del Juego](instrucciones/componentes-del-juego.md)
+  * [Introducción](instrucciones/introduccion.md)
+  * [Configuración](instrucciones/configuracion.md)
+  * [Reseñas](instrucciones/resenas.md)
+  * [Básicos](instrucciones/basicos.md)
+  * [Enemigos](instrucciones/enemigos.md)
+  * [Turno Jugador](instrucciones/turno-jugador.md)
+  * [Combate](instrucciones/combate.md)
+  * [Poder](instrucciones/poder.md)
+  * [Espectadores](instrucciones/espectadores.md)
+  * [Objetos Interactivos](instrucciones/objetos-interactivos.md)
+  * [Misiones](instrucciones/misiones.md)
+  * [Resumen de Turnos](instrucciones/resumen-de-turnos.md)
