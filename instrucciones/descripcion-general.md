@@ -1,2 +1,2 @@
-# Descripción general
+# Reseñas
 
