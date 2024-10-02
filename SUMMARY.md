@@ -4,7 +4,7 @@
   * [Componentes del Juego](instrucciones/componentes-del-juego.md)
   * [Introducción](instrucciones/introduccion.md)
   * [Configuración](instrucciones/configuracion.md)
-  * [Reseñas](instrucciones/resenas.md)
+  * [Descripción general](instrucciones/descripcion-general.md)
   * [Básicos](instrucciones/basicos.md)
   * [Enemigos](instrucciones/enemigos.md)
   * [Turno Jugador](instrucciones/turno-jugador.md)
