@@ -1,2 +1,0 @@
-# Componentes del Juego
-

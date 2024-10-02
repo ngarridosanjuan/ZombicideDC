@@ -1,2 +1,0 @@
-# Resumen de Turnos
-
