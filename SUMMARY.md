@@ -8,6 +8,7 @@
   * [Básicos](instrucciones/basicos.md)
   * [Enemigos](instrucciones/enemigos.md)
   * [Turno Jugador](instrucciones/turno-jugador.md)
+  * [Turno Enemigo](instrucciones/turno-enemigo.md)
   * [Combate](instrucciones/combate.md)
   * [Poder](instrucciones/poder.md)
   * [Espectadores](instrucciones/espectadores.md)
