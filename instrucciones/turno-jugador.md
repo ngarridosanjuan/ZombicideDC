@@ -8,9 +8,7 @@
 
 Activar Superhéroes: Todos los Superhéroes son activados, uno por uno. En cada Ronda, los jugadores eligen el orden en que activarán a cada Superhéroe. Durante su Turno, un Superhéroe puede realizar hasta 3 Acciones en el Nivel de Peligro Azul (sin contar ninguna Acción gratuita que su Habilidad de Nivel Azul pueda otorgarle). Las Acciones disponibles para un Superhéroe son las siguientes:
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
-
-&#x20;
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 **MOVERSE**
 
@@ -20,19 +18,15 @@ Un Superhéroe debe gastar 1 Acción adicional por cada Enemigo que esté en la 
 
 _**Ejemplo: Batman está en una Zona con 2 Caminantes. Para salir de esta Zona, gasta 1 Acción de Movimiento + 2 Acciones adicionales (1 por cada Caminante), para un total de 3 Acciones. Si hubiera habido 3 Enemigos en la Zona, Batman habría necesitado 4 Acciones (1+3) para moverse.**_
 
-&#x20;
-
 **EMPUJAR**
 
 Algunos efectos pueden indicar “empujar” una figura. Cuando una figura es empujada, se mueve el número de Zonas indicado por el efecto de Empujar, ignorando a los Enemigos. A menos que se especifique como "hacia" o "alejándose de" algo en el efecto, la figura puede moverse en cualquier dirección posible.
-
-&#x20;
 
 **ABRIR PUERTA**
 
 El Superhéroe abre una puerta en su Zona. T**en en cuenta que todas las puertas que conducen a Edificios comienzan el juego Cerradas, a menos que la Misión lo indique específicamente.** Coloca una ficha de Puerta Abierta donde estaba la puerta cerrada para indicar que ahora está abierta (o, en el caso de que ya hubiera una ficha de Puerta Cerrada, simplemente voltéala a su lado Abierto).
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Fichas de Puerta Cerrada y Abierta**
 
@@ -42,15 +36,13 @@ Algunas Misiones presentan puertas de colores. Por lo general, estas no pueden a
 
 _**IMPORTANTE: Abrir un Edificio por primera vez revela a todos los Enemigos y Civiles que están esperando adentro. Esto se explica en la sección de Aparición en Edificios en la página XX.**_
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Fichas de Puerta Azul y Verde**
 
-&#x20;
-
 **RECARGAR ENERGÍA**
 
-Aunque los Superhéroes ganan automáticamente 1 de Poder  al inicio de cada Ronda, también pueden, durante su Turno, realizar una Acción de Recargar Energía para aumentar su Pista de Poder en 2. Esto se puede hacer más de una vez por Turno.
+Aunque los Superhéroes ganan automáticamente 1 de Poder al inicio de cada Ronda, también pueden, durante su Turno, realizar una Acción de Recargar Energía para aumentar su Pista de Poder en 2. Esto se puede hacer más de una vez por Turno.
 
 Entrar en una Zona que contenga Enemigos termina la Acción de Movimiento del Superhéroe (esto es importante para Habilidades o efectos que permiten a los Superhéroes moverse varias Zonas por Acción de Movimiento).
 
@@ -60,13 +52,9 @@ Muchas Habilidades y Rasgos requieren gastar Poder para ser utilizadas.
 
 El Poder también se usa generalmente para obtener Dados adicionales cuando un Superhéroe realiza un Ataque.
 
-&#x20;
-
 **ATACAR**
 
 El Superhéroe ataca a un Enemigo al que pueda apuntar.
-
-&#x20;
 
 **GANAR RASGO**
 
@@ -82,19 +70,15 @@ Dos Rasgos pueden usarse juntos si se cumplen sus requisitos.
 
 A menos que se indique lo contrario, **usar un Rasgo Heroico no cuesta una Acción.** Se realiza de forma gratuita cuando se cumplen sus requisitos.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **INTERACTUAR CON OBJETIVO**
 
 El Superhéroe toma y/o activa un Objetivo en su Zona. Los efectos específicos de hacer esto se detallan en la descripción de la Misión.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Fichas de objetivo.**
-
-&#x20;
 
 **RESCATAR CIVIL**
 
@@ -110,8 +94,6 @@ Un Superhéroe puede Escoltar cualquier cantidad de Civiles al mismo tiempo.
 
 Los Civiles Escoltados pueden intercambiarse entre Superhéroes cuando se realiza la Acción de Intercambio.
 
-&#x20;
-
 **RECOGER EQUIPO**
 
 Si están en la misma Zona que una carta de Equipo **y no hay Enemigos en esa Zona**, el Superhéroe puede Recoger ese Equipo. La carta se retira del tablero y se coloca boca arriba en el espacio de Equipo de su Tablero.
@@ -124,18 +106,14 @@ Un Superhéroe solo puede tener 1 carta de Equipo a la vez. Si ya tiene un Equip
 
 Las cartas de Equipo pueden intercambiarse entre Superhéroes cuando se realiza la Acción de Intercambio.
 
-&#x20;
-
 **INTERCAMBIAR**
 
 El Superhéroe puede intercambiar cualquier/ todos los Equipos y/o cartas de Civil entre él y 1 (y solo 1) otro Superhéroe en su Zona. Una Acción de Intercambio no tiene que ser equitativa. Se puede intercambiar todo por nada, si ambas partes están de acuerdo.
-
-&#x20;
 
 **FIN DEL TURNO**
 
 Un Superhéroe no necesita realizar todas sus Acciones si no lo desea y puede renunciar a cualquier Acción restante para finalizar su Turno. Una vez que un Superhéroe ha completado todas sus Acciones (o ha renunciado a las que le queden), su Turno termina. Voltea su ficha de Activación al lado rojo (Activado) para indicar esto.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Fichas de activación.**
