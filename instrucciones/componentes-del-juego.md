@@ -34,23 +34,7 @@
 
 #### **60 Fichas Totales**:
 
-<figure><img src="../.gitbook/assets/Captura de pantalla 2024-10-07 095136 (7).png" alt=""><figcaption></figcaption></figure>
-
-\* 1 Ficha de Poste de Luz.&#x20;
-
-\* 1 Ficha de Cabina Telefónica.&#x20;
-
-\* 1 Ficha del "Daily Planet".
-
-* 2 Fichas de Puerta Azul (Abierta/Cerrada).
-* 2 Fichas de Puerta Verde (Abierta/Cerrada).
-* 2 Fichas de Objetivo Rojo/Azul.
-* 2 Fichas de Objetivo Verde/Naranja.
-* 1 Ficha de Primer Punto de Generación.
-* 2 Fichas de Punto de Generación Azul/Rojo.
-* 2 Fichas de Punto de Generación Verde/Naranja.
-* 1 Ficha de Salida.
-* Fichas de Activación.
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><p>Ficha de Poste de Luz. </p><p>Ficha de Cabina Telefónica. </p><p>Ficha del "Daily Planet".</p></td><td></td><td><img src="../.gitbook/assets/Captura de pantalla 2024-10-07 095136 (10).png" alt="" data-size="original"></td><td></td></tr><tr><td><p>x25 Fichas de puerta (Abierta/Cerrada)</p><p>x2 Fichas de Puerta Azul (Abierta/Cerrada).</p><p>x2 Fichas de Puerta Verde (Abierta/Cerrada).</p></td><td></td><td><img src="../.gitbook/assets/Captura de pantalla 2024-10-07 103226.png" alt="" data-size="original"></td><td></td></tr><tr><td><p>x6 Fichas de Objetivo Rojo/Rojo</p><p>x2 Fichas de Objetivo Azul/Rojo.</p><p>x2 Fichas de Objetivo Verde/Rojo.</p></td><td></td><td><img src="../.gitbook/assets/image (4).png" alt="" data-size="original"></td><td></td></tr><tr><td><p>x1 Ficha Primer Punto de Generación.</p><p>x2 Fichas Punto de Generación Rojo/Rojo.</p><p>x2 Fichas Punto de Generación Azul/Rojo.</p><p>x2 Fichas Punto de Generación Verde/Rojo.</p></td><td></td><td><img src="../.gitbook/assets/image (8).png" alt="" data-size="original"></td><td></td></tr><tr><td>Ficha de Salida.</td><td></td><td><img src="../.gitbook/assets/image (9).png" alt="" data-size="original"></td><td></td></tr><tr><td>Fichas de Activación.</td><td></td><td><img src="../.gitbook/assets/image (10).png" alt="" data-size="original"></td><td></td></tr></tbody></table>
 
 ## Otros Componentes
 
