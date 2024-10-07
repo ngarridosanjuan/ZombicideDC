@@ -24,11 +24,9 @@
 
 #### **130 Cartas Totales**:
 
-```html
-<p style="text-align: center;">Este párrafo está centrado.</p>
-```
 
 
+* 8 Cartas de Superhéroes.
 
 
 
