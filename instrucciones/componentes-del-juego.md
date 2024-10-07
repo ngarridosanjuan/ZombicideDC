@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7fe252a0-3ef7-4fd2-860c-4f3aabbe9a94)# Componentes del Juego
+# Componentes del Juego
 
 ## 85 Miniaturas
 
