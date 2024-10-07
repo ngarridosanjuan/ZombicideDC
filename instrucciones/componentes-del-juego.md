@@ -53,4 +53,3 @@ layout:
 ### Otros Componentes
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>x6 Dados</td><td></td><td><img src="../.gitbook/assets/image (17).png" alt="" data-size="original"></td></tr><tr><td>x6 Bases de Colores</td><td></td><td><img src="../.gitbook/assets/image (18).png" alt="" data-size="original"></td></tr><tr><td>x12 Cubos de Seguimiento (Tracker)</td><td></td><td><img src="../.gitbook/assets/image (19).png" alt="" data-size="original"></td></tr><tr><td>x6 Tableros de Plástico</td><td></td><td><img src="../.gitbook/assets/Captura de pantalla 2024-10-07 112738.png" alt="" data-size="original"></td></tr></tbody></table>
-
