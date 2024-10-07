@@ -56,10 +56,11 @@
 
 #### **60 Fichas Totales**:
 
-<figure><img src="../.gitbook/assets/Captura de pantalla 2024-10-07 095136 (7).png" alt=""><figcaption></figcaption></figure>
-
+<p style="text-align: right;">
+<figure><img src="../.gitbook/assets/Captura de pantalla 2024-10-07 095136 (7).png" style=" alt=""><figcaption></figcaption></figure>
+</p>
 * 1 Ficha de Poste de Luz.
-* 1 Ficha de Cabina Telefónica. &#x20;
+* 1 Ficha de Cabina Telefónica.
 * 1 Ficha del "Daily Planet".
 
 
