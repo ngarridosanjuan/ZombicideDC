@@ -4,21 +4,21 @@ Cuando un superhéroe realiza una acción de ataque, utiliza su ataque único, q
 
 
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen6(ivan).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="171"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen7(ivan).png" alt="" width="171"><figcaption></figcaption></figure>
 
 TIPO: Los ataques se dividen en 2 categorías: cuerpo a cuerpo o a distancia. Los símbolos cuerpo a cuerpo y a distancia se utilizan para distinguir cada tipo. Algunas habilidades o efectos pueden interactuar específicamente con estos tipos.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen5(ivan).png" alt=""><figcaption></figcaption></figure>
 
 CUERPO A CUERPO: Los ataques cuerpo a cuerpo se identifican con el símbolo Cuerpo a cuerpo y solo se pueden usar contra objetivos en la misma Zona.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen4(ivan).png" alt=""><figcaption></figcaption></figure>
 
 A DISTANCIA: Los ataques a distancia se identifican con el símbolo a distancia y pueden apuntar a enemigos en zonas distantes dentro de la línea de visión.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen3(ivan).png" alt=""><figcaption></figcaption></figure>
 
 ALCANCE: Esto indica la distancia a la(s) Zona(s) que el Ataque puede apuntar.
 
@@ -26,11 +26,11 @@ ALCANCE: Esto indica la distancia a la(s) Zona(s) que el Ataque puede apuntar.
 
 •  Los ataques a distancia suelen mostrar dos valores: el primero es el alcance mínimo. El Ataque no puede apuntar a Zonas más cercanas que el mínimo. Ese valor suele ser 0, lo que significa que puede apuntar a enemigos en la misma zona (sigue siendo un ataque a distancia). El segundo valor muestra el alcance máximo del ataque. No puede apuntar a Zonas más allá de su Alcance máximo.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen2(ivan).png" alt=""><figcaption></figcaption></figure>
 
 DADOS: Cada Ataque enumera el número base de dados que tira, aunque otros efectos del juego pueden agregar dados adicionales (como gastar Poder, ver página 20).
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen1(ivan).png" alt=""><figcaption></figcaption></figure>
 
 PRECISIÓN: Cada resultado del dado que iguale o exceda el valor de Precisión del Ataque suma 1 Impacto.
 
