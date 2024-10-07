@@ -1,4 +1,4 @@
-# Descripción general
+# Reseñas
 
 **RESUMEN DEL JUEGO**
 

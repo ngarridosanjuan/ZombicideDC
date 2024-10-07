@@ -13,4 +13,5 @@
   * [Poder](instrucciones/poder.md)
   * [Espectadores](instrucciones/espectadores.md)
   * [Objetos Interactivos](instrucciones/objetos-interactivos.md)
+  * [Misiones](instrucciones/misiones.md)
   * [Resumen de Turnos](instrucciones/resumen-de-turnos.md)
